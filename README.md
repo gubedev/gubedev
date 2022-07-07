@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gubedev
-- 👀 I’m interested in javascript, python and .net projects.
+- 👀 I’m interested in javascript, Python and DotNet projects.
 - 🌱 I’m currently learning AWS Serverless.
 - 💞️ I’m looking to collaborate on JavaScript, python and DotNet project 
 - 📫 How to reach me sending email to gustavo.benitez.developer@gmail.com 
