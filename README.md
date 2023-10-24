@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gubedev
 - 👀 I’m interested in javascript, Frontend projects.
-- 🌱 I’m currently learning AWS Serverless.
 - 📫 How to reach me sending email to gustavo.benitez.developer@gmail.com 
 
 <!---
