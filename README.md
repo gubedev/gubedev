@@ -1,9 +1,7 @@
-Acá está el markdown crudo, listo para pegar en tu `README.md`:
-
-````markdown
 # Hey, I'm Gustavo 👋
 
 **Front-End Leaning Fullstack Engineer · Next.js & Python**
+
 Buenos Aires, AR · Remote, US hours
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
@@ -30,33 +28,25 @@ These days that means AI: RAG pipelines, LLM integrations, and Copilot experienc
 
 ## 🔧 My stack
 
-**Frontend** — Next.js, React, TypeScript, Micro-Frontend Architecture, Storybook  
-**Backend** — Python, FastAPI, Node.js, Express, .NET, GraphQL, REST  
-**Data & Pipelines** — ETL, high-volume data pipelines, real-time monitoring, data capture workflows, OpenCV  
-**AI & LLMs** — LangChain, RAG, OpenAI APIs, Prompt Engineering, AI Copilot Design  
-**Databases** — PostgreSQL, MySQL, SQL Server, multi-tenant DB design  
-**Cloud** — AWS (Lambda, S3, API Gateway, EC2, EventBridge), serverless, Docker, CI/CD  
+- **Frontend** — Next.js, React, TypeScript, Micro-Frontend Architecture, Storybook
+- **Backend** — Python, FastAPI, Node.js, Express, .NET, GraphQL, REST
+- **Data & Pipelines** — ETL, high-volume data pipelines, real-time monitoring, data capture workflows, OpenCV
+- **AI & LLMs** — LangChain, RAG, OpenAI APIs, Prompt Engineering, AI Copilot Design
+- **Databases** — PostgreSQL, MySQL, SQL Server, multi-tenant DB design
+- **Cloud** — AWS (Lambda, S3, API Gateway, EC2, EventBridge), serverless, Docker, CI/CD
 
 *Familiar with, not yet run in production: Kubernetes, Redis*
 
 ## 📌 Featured work
 
-🔹 **N5 AI Copilot** — LLM-driven Copilot experiences in production across 3 banking institutions. Also designed the micro-frontend architecture that let 4 apps deploy independently — 3 deploys/day to dev, weekly to prod.
+**N5 AI Copilot** — LLM-driven Copilot experiences in production across 3 banking institutions. Also designed the micro-frontend architecture that let 4 apps deploy independently — 3 deploys/day to dev, weekly to prod.
 
-🔹 **SILTRA Logistics** — Serverless ingestion pipeline on Lambda + S3 that cut manual data entry 80%. Workflow automation that cut dispatch times 40%. SSO/MFA with RBAC for 100+ users.
+**SILTRA Logistics** — Serverless ingestion pipeline on Lambda + S3 that cut manual data entry 80%. Workflow automation that cut dispatch times 40%. SSO/MFA with RBAC for 100+ users.
 
-🔹 **Toyota Boshoku** — Six years of data capture on a factory floor: traceability systems, real-time inventory monitoring, high-volume ETL, and services for an OpenCV computer vision app capturing production data automatically.
+**Toyota Boshoku** — Six years of data capture on a factory floor: traceability systems, real-time inventory monitoring, high-volume ETL, and services for an OpenCV computer vision app capturing production data automatically.
 
 ## 📫 Let's connect
 
-Open to founding / senior engineer roles at US and remote-first companies.  
-[LinkedIn](https://linkedin.com/in/gustavo-mariano-benitez) · benitez.gm@gmail.com
+Open to founding / senior engineer roles at US and remote-first companies.
 
----
-
-⚡ *Fun fact: I started out building data capture systems for Toyota — computer vision on a factory floor, catching the parts that failed weird. Now I build with LLMs. Turns out the hard part was never the happy path.*
-````
-
-Un detalle: agregué dos espacios al final de cada línea del bloque "My stack" para forzar los saltos de línea. Sin eso, GitHub los junta en un párrafo.
-
-Y no te olvides de verificar la URL de LinkedIn antes de publicarlo.
+[LinkedIn](https://linkedin.com/in/gustavo-mariano-benitez) · gustavo.benitez.developer@gmail.com
